@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MRR1D89T
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+telnet mapscii.me
+untuk termux 
+(peta dunia) 
